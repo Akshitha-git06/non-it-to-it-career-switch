@@ -11,10 +11,15 @@ Power BI for visual storytelling and dashboard creation
 As someone who personally transitioned into the tech industry, this project reflects not only data—but also my own career journey.
 
 **Tools & Skills Applied**
+
 Excel (Data cleaning, pivot analysis)
+
 MySQL (Database design, SQL querying)
+
 Power BI (Dashboard design, DAX measures, visual storytelling)
+
 Data storytelling and dashboard interactivity
+
 
 **Project Workflow**
 
