@@ -106,7 +106,7 @@ Tell a compelling data story
 
 If you enjoyed this project or have feedback, feel free to connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
 
