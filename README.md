@@ -108,6 +108,7 @@ If you enjoyed this project or have feedback, feel free to connect with me!
 
 [LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
-[Github](https://github.com/Akshitha-git06)
+[Github](https://github.com/Akshitha-git06) 
+
 
 ## Thank you for checking out my project!
